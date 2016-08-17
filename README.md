@@ -12,4 +12,3 @@ https://apps.twitter.com/
 
     sbt stage
     ./target/universal/stage/bin/scala-twitter4j
-¡
